@@ -5,14 +5,21 @@ unicode_script: devanagari
 ---
 
 ## द्राविडपाठः
-### परिचयः
-"This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal. It's original print is likely by vaidhika vardhini press from Kumbhakonam. What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases." इत्यजितः। तथापि क्वचित् स्वरः सन्देहास्पदम्।  
+<details><summary>परिचयः</summary>
 
-### पाठः
+> This pAtha is from the book 'yAjusha mantra ratnakaram' in grantha script, re-printed by Sri Krishnamurti Shastrigal.  
+> It's original print is likely by vaidhika vardhini press from Kumbhakonam.  
+> What you see in this pAtha (as opposed to the more popular patha) is that it doesn't have multiple anudAttas in a row in the middle of phrases.
+
+इत्यजितः। तथापि क्वचित् स्वरः सन्देहास्पदम्।  
+</details>
+
+
+
 हिर॑ण्यवर्णां॒ हरि॑णीं सुव॒र्णर॑ज॒तस्र॑जाम्।  
 च॒न्द्रां हि॒रण्म॑यीं ल॒क्ष्मीं जात॑वेदो म॒ आव॑ह।  
 
-तां म॒ आव॑ह जातवेदो ल॒क्ष्मीम् अन॑पगा॒मिनी॑॑म्।  
+तां म॒ आव॑ह+++(स्वरः?)+++ जातवेदो ल॒क्ष्मीम् अन॑पगा॒मिनी॑॑म्।  
 यस्यां॒ हिर॑ण्यं वि॒न्देयं॒ गाम् अश्वं॒ पुरु॑षान् अ॒हम्।  
 
 अ॒श्व॒पू॒र्वां र॑थम॒ध्यां ह॒स्तिना॑द-प्र॒बोधि॑नीम्।  
