@@ -22,4 +22,13 @@ ably was carried away from heaven at the same time as Soma—though the poet  ex
 <details><summary>+Jamison Brereton Notes</summary>
 
 Indra (1-3), Praise of the falcon (4-7) [=Soma-theft] As indicated in the published introduction, I believe the whole hymn is spoken by Indra, against the Anukramaṇī but with Geldner (/Witzel Gotō).
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/026-027.md">
+<details open><summary><h2>26-27 ...{Loading}...</h2></summary>
+
+These are the famous hymns devoted to the stealing of soma from heaven.
+
+Unfortunately they are very obscure in many details, esp. IV.27. The myth and these hymns are treated in detail by U. Schneider, Der Somaraub des Manu (1971).
+</details>
+</div>
 </details>
