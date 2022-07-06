@@ -139,6 +139,16 @@ Come forth, Kuśikas; make yourselves known. Release the horse of  Sudās, to (g
 The king will smash the obstacle to the east, to the west, to the north.  Then he will sacrifice on the best part of the earth.
 </details>
 
+<details><summary>+Jamison Brereton Notes</summary>
+
+This vs. is supposed to depict the Aśvamedha of King Sudās, and the releasing of the horse in b and the smiting of obstacles in all directions in c, followed by a sacrifice in d, certainly support this interpr.
+
+cetáyadhvam is variously rendered, but most generally as ‘pay attention’ vel sim. I instead take this middle full-grade -áya-formation as a reflexive transitive “make yourselves known” based on the ‘make perceive’ sense of cetáya-. Renou’s alternative “faites vous remarquer” is closest to mine.
+
+As Watkins points out (Dragon, p. 208), although this form of the intens. of √han has a singular object (somewhat unusually), it is “serially plural,” in that the vṛtrám is located in one cardinal direction after another; see also Schaeffer 204-5.
+</details>
+
+
 <details><summary>+Griffith</summary>
 
 Come forward, Kusikas, and be attentive; let loose Sudas's horse to win him riches.  
