@@ -24,4 +24,11 @@ The hymn ends with what appears to be a truncated dānastuti (vs. 9): the poet  
 <details><summary>+Jamison Brereton Notes</summary>
 
 Indra
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033-034.md">
+<details open><summary><h2>33-34 ...{Loading}...</h2></summary>
+
+Indra These two hymns attributed to Saṃvaraṇa Prājāpatya are full of puzzles, many insoluble.
+</details>
+</div>
 </details>

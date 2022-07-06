@@ -20,4 +20,11 @@ This hymn is in some ways a twin to the last one: both have five triṣṭubh ve
 <details><summary>+Jamison Brereton Notes</summary>
 
 Agni
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/076-077.md">
+<details open><summary><h2>76-77 ...{Loading}...</h2></summary>
+
+These two Triṣṭubh hymns are out of sequence, in that they both contain five verses. The preceding hymn I.75 in Gāyatrī also contains five verses, and among hymns of the same number of verses to the same divinity, those in the longer meter (in this case Triṣṭubh) should precede. Curiously, Oldenberg does not remark on this. The proper sequencing is restored with I.78, five verses in Gāyatrī.
+</details>
+</div>
 </details>

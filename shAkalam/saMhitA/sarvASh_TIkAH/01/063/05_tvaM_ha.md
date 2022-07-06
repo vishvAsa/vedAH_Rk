@@ -159,7 +159,7 @@ I am less sure about what pāda c is conveying. I assume this is a racing image:
 
 as a past tense, in keeping with its rendering in the first hemistich, but it would be possible to take it as a present in c, as Hoffman/Witzel Gotō do. The phrase asmád ā́ “(coming) from us” seems a bit heavy simply to express that it’s our horse, so there may be some racing terminology embedded here.
 
-In d ghanéva contains the old instr. ghanā́. The same phrase is found in
+In d ghanéva contains the old instr. ghanā́. The same phrase is found in I.36.16 and IX.97.16.
 
 
 

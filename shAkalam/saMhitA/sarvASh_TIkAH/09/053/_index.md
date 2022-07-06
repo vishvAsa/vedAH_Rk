@@ -22,4 +22,13 @@ ent different from the one meant. The first verse deploys clear Indraic vocabula
 <details><summary>+Jamison Brereton Notes</summary>
 
 On the rhetorical indirection in this hymn, see published introduction. as well as more detailed comments below.
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/053-060.md">
+<details open><summary><h2>53-60 ...{Loading}...</h2></summary>
+
+The next 8 hymns, the last ones before the lengthy hymns assembled from tṛcas (IX.61-68) that end the dimeter collection, are attributed to Avatsāra Kāśyapa. All of them contain four vss., and a number of them are structured such that the first three vss. form a unity, with the last vs. stylistically or thematically contrastive or completive. See esp.
+
+IX.53-57. Oldenberg tends to analyze them as a tṛca with Schlussvers, which is strictly accurate, but I think the point is the interplay of 3+1.
+</details>
+</div>
 </details>

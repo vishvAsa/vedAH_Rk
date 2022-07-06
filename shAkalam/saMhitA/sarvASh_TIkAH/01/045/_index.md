@@ -20,4 +20,11 @@ Like the immediately preceding hymn, this one celebrates Agni as the conveyor of
 <details><summary>+Jamison Brereton Notes</summary>
 
 Agni The theme of “hearing,” found also in the last two verses of I.44, is further explored here, with its complement, the “call” that the gods should hear.
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/044-049.md">
+  <details open><summary><h2>44-49 ...{Loading}...</h2></summary>
+
+For illuminating remarks on the rhetorical and grammatical connections among these hymns, see Jesse Lundquist 2014 (25th UCLA IE Conf., Proceedings).
+  </details>
+</div>
 </details>

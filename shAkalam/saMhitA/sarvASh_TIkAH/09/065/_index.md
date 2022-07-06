@@ -27,4 +27,10 @@ The tr̥ca consisting of verses 22–24 breaks the monotony to some degree, with
 <details><summary>+Jamison Brereton Notes</summary>
 
 On the qualities of this hymn as a whole, see published introduction.
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061-067.md">
+<details open><summary><h2>61-67 ...{Loading}...</h2></summary>
+
+On the place of these long hymns in the structure of the maṇḍala, see published introduction. to IX.61. All of these hymns consist of collections of tṛcas of varying degrees of cohesion. In fact, it is surprising how few tṛcas display a real attempt at thematic or lexical unity, and what they do show is often simply the byproduct of the fact that both the lexicon and thematic preoccupations of Maṇḍala IX are comparatively limited and so similar words and themes are not unlikely to show up in adjacent verses. This lack of unity contrasts, I think (this is my unsystematic and anecdotal impression) with collections of tṛcas in other maṇḍalas, notably VIII.</details>
+</div>
 </details>

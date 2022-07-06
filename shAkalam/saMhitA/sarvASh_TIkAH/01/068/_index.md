@@ -20,4 +20,11 @@ Breaking the pattern of Parāśara’s previous dvipadā virāj hymns (I.65–67
 <details><summary>+Jamison Brereton Notes</summary>
 
 Agni Note that Hoffmann tr. the entire hymn (1967: 141-42) because it contains 10 injunctives. I agree with Hoffmann’s tr. of these forms as presents, although I do not think this requires a Zeitlos-type interpretation.
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/068-070.md">
+<details open><summary><h2>68-70 ...{Loading}...</h2></summary>
+
+Agni I consider these three hymns to be thematically and verbally linked, treating the Vaiśvānara fire and encoding this theme by deploying the two words underlying this vṛddhi compound, víśva- and nṛ́-. The first, víśva-, dominates I.68, the second, nṛ́- I.69, and they are juxtaposed in the climactic verses of I.70.9-10. See the introductions to the three hymns in the published translation, and for a detailed discussion, Jamison, Fs. J. S. Klein (“Inter-hymnic Rhetorical Structure in Ṛgveda I.68-70: Parāśara Śāktya’s Vaiśvānara Cycle,” 2016).
+</details>
+</div>
 </details>

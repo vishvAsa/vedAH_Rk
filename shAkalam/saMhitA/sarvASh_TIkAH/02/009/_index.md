@@ -26,4 +26,11 @@ The hymn begins with a 3rd-person past-time reference to the installation of Agn
 <details><summary>+Jamison Brereton Notes</summary>
 
 Agni
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/009-010.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+Agni These two six-verse trimeter hymns follow the two six-verse dimeter hymns (II.7-8), though by the normal rules of hymn ordering they should precede them. In his opening n. on II.9 in SBE, Oldenberg tentatively suggests that II.9 and 10 should each be divided into two tṛcas, but in the Noten he essentially withdraws this suggestion because he sees signs of unity within the two hymns as transmitted.
+</details>
+</div>
 </details>

@@ -30,4 +30,11 @@ The structure of this hymn is relatively straightforward. It begins (vs. 1) with
 <details><summary>+Jamison Brereton Notes</summary>
 
 Indra Although the general outline of this hymn is pretty straightforward, it is full of interpretational problems and grammatical and syntactic obscurities, and the meter is very messy.
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/033-034.md">
+<details open><summary><h2>33-34 ...{Loading}...</h2></summary>
+
+Indra These two hymns attributed to Saṃvaraṇa Prājāpatya are full of puzzles, many insoluble.
+</details>
+</div>
 </details>

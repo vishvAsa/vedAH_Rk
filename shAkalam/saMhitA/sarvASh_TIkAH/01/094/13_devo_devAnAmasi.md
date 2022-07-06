@@ -140,6 +140,11 @@ As a god, of the gods you are Mitra, the unerring ally. As a Vasu [/good  one], 
 Might we be in your broadest shelter. – O Agni, while in company with  you may we not come to harm.
 </details>
 
+<details><summary>+Jamison Brereton Notes</summary>
+
+Both a and b turn on interpreting one word as both an appellative and a proper name: mitráḥ in a, vásuḥ in b, though they occupy different places in the parallel structures.
+</details>
+
 <details><summary>+Griffith</summary>
 
 Thou art a God, thou art the wondrous Friend of Gods, the Vasu of the Vasus, fair in sacrifice.  

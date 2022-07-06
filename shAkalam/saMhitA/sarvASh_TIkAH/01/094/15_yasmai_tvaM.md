@@ -124,6 +124,26 @@ and whom you will rouse with your beneficial power and with
 generosity that provides offspring—might we be those.
 </details>
 
+<details><summary>+Jamison Brereton Notes</summary>
+
+Contra standard tr., I do not take anāgástvam as the obj. of dádāśaḥ, since √dāś seldom takes an object that is not a god, and when it does, it is a ritual offering.
+
+Instead I take it as belonging to a parallel nominal clause, still in the domain of yásmai.
+
+The final phrase that is the ostensible main clause, té syāma “might we be they,” violates number agreement: pl. té cannot properly pick up sg. yásmai. This is a variant of a common tag and feels tacked on.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/15-16.md">
+<details open><summary><h2>15-16 ...{Loading}...</h2></summary>
+
+The meter here changes to Triṣṭubh, and the intra-hymnic refrain is dropped. The 2nd hemistich of vs. 16 contains the first example in the Saṃhitā of the Kutsa refrain.
+
+</details>
+</div>
+</details>
+
+
 <details><summary>+Griffith</summary>
 
 To whom thou, Lord of goodly riches, grantest freedom from every sin with perfect wholeness,  

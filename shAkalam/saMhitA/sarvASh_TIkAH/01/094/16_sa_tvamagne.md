@@ -157,6 +157,19 @@ You, o Agni, knowing the quality of good fortune—for us extend our  lifetime h
 – This let Mitra and Varuṇa grant to us, and Aditi, River, and Earth  and Heaven.
 </details>
 
+<details><summary>+Jamison Brereton Notes</summary>
+
+Because sá with 2nd ps. reference is restricted by rule to imperatives (see Jamison 1992 [HS 105]), ab must be a single clause, pace Geldner
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/15-16.md">
+<details open><summary><h2>15-16 ...{Loading}...</h2></summary>
+
+The meter here changes to Triṣṭubh, and the intra-hymnic refrain is dropped. The 2nd hemistich of vs. 16 contains the first example in the Saṃhitā of the Kutsa refrain.
+
+</details>
+</div>
+</details>
+
 <details><summary>+Griffith</summary>
 
 Such, Agni, thou who knowest all good fortune, God, lengthen here the days of our existence.  

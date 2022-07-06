@@ -20,4 +20,11 @@ Like VII.39, this hymn concerns the dawn soma sacrifice and especially Agni’s 
 <details><summary>+Jamison Brereton Notes</summary>
 
 All Gods
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/042-043.md">
+<details open><summary><h2>42-43 ...{Loading}...</h2></summary>
+
+All Gods 68 These two hymns are in some ways companion pieces, progressing similarly through the ritual and sharing means of expression and images. For details see individual discussions below.
+</details>
+</div>
 </details>

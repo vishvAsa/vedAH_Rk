@@ -25,4 +25,10 @@ The vivid description characteristic of Marut hymns is not absent here. See espe
 <details><summary>+Jamison Brereton Notes</summary>
 
 Maruts
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/057-058.md">
+<details open><summary><h2>57-58 ...{Loading}...</h2></summary>
+
+Maruts As Oldenberg (Proleg. 204-5) points out these two hymns are parallel and share a final vs. He attributes their position at the beginning of the four 8-vs. Marut hymns to this twinning. Otherwise V.58, in Triṣṭubh, should follow V.59, in Jagatī.</details>
+</div>
 </details>
